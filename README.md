@@ -2,18 +2,19 @@
 
 # サーバ構築課題一覧
 
-## 課題1：Webサーバ構築（ベーシック認証付き）
+本リポジトリは、Linux環境における各種サーバ（Web / FTP / Telnet）の構築課題の成果物です。
 
-[Webサーバ構築マニュアル](./server_manual.md)
+## 📋 課題一覧
 
----
-
-## 課題2：FTPサーバ構築
-
-[FTPサーバ構築マニュアル](./server_manual.md)
+### 課題1：Webサーバ構築（ベーシック認証付き）
+* [Webサーバ構築マニュアルを開く](./server_manual.md#1-apache-webサーバ-の構築とベーシック認証)
 
 ---
 
-## 課題3：Telnetサーバ構築
+### 課題2：FTPサーバ構築
+* [FTPサーバ構築マニュアルを開く](./server_manual.md#2-ftpサーバ-vsftpd-の構築)
 
-[Telnetサーバ構築マニュアル](./server_manual.md)
+---
+
+### 課題3：Telnetサーバ構築
+* [Telnetサーバ構築マニュアルを開く](./server_manual.md#3-telnetサーバの構築)
