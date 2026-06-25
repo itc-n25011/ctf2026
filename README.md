@@ -1,7 +1,7 @@
 # ctf2026
 ## 🚩 cpawCTFの課題
 ### 獲得したフラグの画像
-![cpawCTFの実績](./web2_new.png)
+![cpawCTFの実績](./cpawCTF/web2_new.png)
 
 # サーバ構築課題一覧
 
